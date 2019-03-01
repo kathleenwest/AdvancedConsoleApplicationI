@@ -1,5 +1,7 @@
 # AdvancedConsoleApplicationI
 
+Project Blog Article: https://portfolio.katiegirl.net/2018/11/18/advanced-console-application-i/
+
 Advanced Console Application I
 My Student Project: C# Programming III
 
